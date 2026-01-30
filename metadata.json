@@ -1,0 +1,5 @@
+{
+  "name": "Expense Tracker",
+  "description": "A production-ready bilingual (Bengali/English) Income & Expense Tracker web app with Next.js, Express, and PostgreSQL.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@expense-tracer/shared",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "zod": "^3.22.4"
+  }
+}
